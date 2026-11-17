@@ -1,4 +1,4 @@
-# dhd2027_mindh_the_gap
+# dhd2027_mind_dh_gap
 Daten und Skripte zur Vortragseinreichung 
 
 "Mind dh gap! Analyse der Themen in den Abstracts der DHd-Konferenzen"
